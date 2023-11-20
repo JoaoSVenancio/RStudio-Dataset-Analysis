@@ -8,7 +8,6 @@ data_analysis: This file contains the R code for data analysis. It includes step
 data_set: The data set used for the analysis. This file contains the information needed to reproduce the analysis steps described in the R script.
 
 ## Installation
-Make sure you have the R environment set up
 
 ### Install required packages
 install.packages(c("tidyverse", "ggplot2", "plotrix", "pander", "rstatix", "descr", "readxl", "RVAideMemoire", "rcompanion", "car", "FSA", "lmtest", "corrgram", "corrplot", "psych"))
